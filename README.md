@@ -19,4 +19,7 @@ Task Description📄
 ---
 Create an AWS EC2 instance:
 ---
+- IMAGE NAME: AMI LINUX 2
+- INSTANCE TYPE: t2.micro
+
 ![image](https://user-images.githubusercontent.com/69779873/122474009-3beddb80-cfe0-11eb-8177-d9b548bb41ea.png)
