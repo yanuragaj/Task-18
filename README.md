@@ -16,4 +16,6 @@ Task Description📄
 
 # Solution
 
-
+---
+Create an AWS EC2 instance:
+---
