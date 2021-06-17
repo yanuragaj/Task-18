@@ -105,7 +105,33 @@ As WordPress stores data at the backend in MySQL Database server. Therefore, you
 ![image](https://user-images.githubusercontent.com/69779873/122475106-ca169180-cfe1-11eb-83e0-8e5362f067a2.png)
   
 
+- So, Over here wp-config.php has not been created. But we’ve got php code for this, so just save that code with name wp-config.php
 
+![image](https://user-images.githubusercontent.com/69779873/122475261-05b15b80-cfe2-11eb-8bd6-1e8d68c520d6.png)
+
+- Now go to -> http://<pubIP>/wordpress
+
+![image](https://user-images.githubusercontent.com/69779873/122475303-1530a480-cfe2-11eb-8d23-28c7e6bdf3e3.png)
+
+![image](https://user-images.githubusercontent.com/69779873/122475317-1c57b280-cfe2-11eb-8cd9-743bea582941.png)
+
+![image](https://user-images.githubusercontent.com/69779873/122475330-2083d000-cfe2-11eb-9706-99db5ad95de4.png)
+
+- Do login with your created username and password:
+	
+![image](https://user-images.githubusercontent.com/69779873/122475370-2e395580-cfe2-11eb-8470-8311919204af.png)
+
+![image](https://user-images.githubusercontent.com/69779873/122475381-32fe0980-cfe2-11eb-88f3-7c3f0bbfcdc7.png)
+
+---
+So, we’ve setup successfully and completed task-18!!!
+---
+	
+- To verify,
+	
+![image](https://user-images.githubusercontent.com/69779873/122475451-4c9f5100-cfe2-11eb-9a49-f4144056a549.png)
+
+- So, over here all tables has been created by WordPress.
 
 
   
